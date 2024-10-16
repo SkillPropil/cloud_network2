@@ -15,7 +15,7 @@ Outputs:
 bucket_domain_name = "http://skillpropil-netology-bucket.storage.yandexcloud.net/lol.jpg"
 external_load_balancer_ip = "84.201.180.247
 ```
-Часть 2.Доступ к картинке   
+Часть 2.Доступ к картинке   [instances_group.tf](instances_group.tf)
 <img width="946" alt="Снимок экрана 2024-10-17 в 00 41 15" src="https://github.com/user-attachments/assets/b3975e83-8b7d-44c7-8716-5a63fbe55799">  
 
 Часть 3. Сетевой балансировщик  
